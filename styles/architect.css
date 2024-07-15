@@ -241,6 +241,7 @@ img{
     .Our-Features,
     .feature-text,
     .feature,
+    .feature-image,
     .sponspore-img{
         flex-direction: column;
     }
